@@ -1,0 +1,4 @@
+/snap/clion/184/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/184/bin/ninja/linux/ninja -DCMAKE_C_COMPILER=cc -DCMAKE_CXX_COMPILER=cc -G Ninja "/home/bassant/CLionProjects/Matrices multiplication"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/bassant/CLionProjects/Matrices multiplication/cmake-build-debug
