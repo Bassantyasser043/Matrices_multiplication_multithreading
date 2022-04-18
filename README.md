@@ -1,6 +1,4 @@
 # Matrices_multiplication_multithreading
-
-![Matrix Multiplication](MatMul.png)
 ## 1. Objectives
 
 * To get familiar with thread programming using the [Pthread library](https://hpc-tutorials.llnl.gov/posix/).
