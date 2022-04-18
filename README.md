@@ -1,10 +1,9 @@
+
 # Matrices_multiplication_multithreading
-## 1. Objectives
 
-* To get familiar with thread programming using the [Pthread library](https://hpc-tutorials.llnl.gov/posix/).
-* To better understand processes and threads.
+![image](https://user-images.githubusercontent.com/78346070/163814552-35c234d6-38de-47c5-8608-daab9f72b856.png)
 
-## 2. Overview
+## 1. Overview
 
 You are required to implement a multi-threaded [matrix multiplication](https://www.mathsisfun.com/algebra/matrix-multiplying.html) program.
 
@@ -19,7 +18,7 @@ A parallelized version of matrix multiplication can be done using one of these t
 3. A thread computes each element in the output C matrix. (A thread per element).
 ![A Thread per element](per_element.png)
 
-## 3. Requirements
+## 2. Requirements
 
 * Implement the multi-threaded matrix multiplication using all three methods described above.
 * Compare the three implementations according to the following:
